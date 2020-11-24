@@ -1,0 +1,11 @@
+{
+	"name": "skimmia-backend-challenge",
+	"version": "1.0.0",
+	"description": "Skimmia Backend Challenge",
+	"main": "index.js",
+	"scripts": {
+		"start": "node dist/"
+	},
+	"author": "fvvelasquez this.fvvelasquez@gmail.com",
+	"license": "ISC"
+}
